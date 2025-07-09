@@ -6,9 +6,9 @@
 
         <!-- JDBC Database connection settings -->
         <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
-       <property name="hibernate.connection.url">jdbc:mysql://sqlXXX.freesqldatabase.com:3306/sqlXXX?useSSL=false</property>
-<property name="hibernate.connection.username">sqlXXX</property>
-<property name="hibernate.connection.password">ccc111Adnan</property>
+       <property name="hibernate.connection.url">jdbc:mysql://sql12.freesqldatabase.com:3306/sql12789199?useSSL=false</property>
+<property name="hibernate.connection.username">sql12789199</property>
+<property name="hibernate.connection.password">BHV6lK1VWC</property>
 
         <!-- JDBC connection pool settings -->
         <property name="hibernate.c3p0.min_size">5</property>
